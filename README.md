@@ -1,4 +1,4 @@
-# PhDTollboxCourse- Silvia Valente
+# PhDTollboxCourse
 
 ## I've used th file "ecologydata3"
 
